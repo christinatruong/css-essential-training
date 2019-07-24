@@ -1,0 +1,89 @@
+/*
+COLOR PALETTE
+https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
+#F7FFF7 - almost white
+#343434 - dark gray - almost black
+#2F3061 - blue dark
+#FFE66D - yellow
+#A1C6D7 - blue light
+*/
+
+
+/* Global styles
+------------------------------------*/
+body {
+  color: #343434;
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+img {
+  width: 300px;
+}
+a {
+  color: #FFE66D;
+}
+a:hover {
+  text-decoration: none;
+}
+h2 {
+  margin: 0;
+}
+h1, h2 {
+  font-family: 'Caveat', cursive;
+}
+.content-wrap {
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+
+
+/* Profile
+------------------------------------*/
+header {
+  background: #2F3061;
+  color: #F7FFF7;
+}
+
+
+/* Projects
+------------------------------------*/
+.projects {
+  background: #F7FFF7;
+}
+.projects a {
+  color: #2F3061;
+}
+.projects .btn {
+  color: #F7FFF7;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.projects .btn:hover {
+  background: rgba(47, 48, 97, 80%);
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-experience {
+  background: #A1C6D7;
+}
+
+
+/* Education
+------------------------------------*/
+
+
+
+/* Contact Info
+------------------------------------*/
+footer {
+  background: #343434;
+  color: #F7FFF7;
+}
