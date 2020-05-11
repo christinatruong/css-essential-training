@@ -25,8 +25,8 @@ https://christinatruong.github.io/css-essential-training/css-portfolio/
 
 
 06 – Relative paths
-https://www.photoshop.com/
 
+https://www.photoshop.com/
 
 https://pixlr.com/
 
@@ -57,7 +57,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS
 
 02 – CSS syntax and terminology
 
-http://codeguide.co/
+https://codeguide.co/
 
 
 03 – CSS values and units
