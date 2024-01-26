@@ -1,8 +1,10 @@
 # CSS Essential Training
 
-Exercise files for the CSS Essential Training course on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562) and [Lynda.com](https://www.lynda.com/Christina-Truong/7842227-1.html).
+This course has been updated as of August 2023. Watch the new course here: https://www.linkedin.com/learning/css-essential-training-22688362/
 
-(These files are also hosted on [Bitbucket](https://bitbucket.org/christinacodes/).)
+----
+
+This repo contains the Exercise files for the previous version of the CSS Essential Training course on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562).
 
 ## Course Description
 Cascading Style Sheets (CSS) is a stylesheet language that allows you to control the appearance of your webpages. In this hands-on course, Christina Truong demonstrates the concepts that form the foundation of CSS, explaining what you need to know to tweak existing CSS and write your own.
@@ -13,6 +15,6 @@ Plus, at the end of the course, you'll walk away with an actual project -- [an o
 
 --
 
-Find me on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
+Find me on [YouTube](https://www.youtube.com/@madebychristina) or [Instagram](http://instagram.com/christinaisonline)!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O2NRM6)
