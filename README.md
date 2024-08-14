@@ -1,6 +1,6 @@
 # CSS Essential Training
 
-This course has been updated as of August 2023. Watch the new course here: https://www.linkedin.com/learning/css-essential-training-22688362/
+**This course has been updated as of August 2023.** Watch the new course here: https://www.linkedin.com/learning/css-essential-training-22688362/
 
 ----
 
